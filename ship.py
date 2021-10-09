@@ -20,7 +20,6 @@ class Ship():
         self.x = float(self.rect.x)
         self.y = float(self.rect.y)
 
-
         #Movement flags
         self.moving_right = False
         self.moving_left = False
